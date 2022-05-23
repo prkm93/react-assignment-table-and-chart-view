@@ -13,8 +13,10 @@
     outline: none;
     cursor: pointer;
     margin: 10px 4px;
+    color: white;
 }
 
 .btnDisable {
+    color: black;
     background-color: rgb(253, 245, 232);
 }
