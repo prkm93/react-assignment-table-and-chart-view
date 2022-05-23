@@ -1,0 +1,20 @@
+.btn-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(218, 53, 53);
+    outline: none;
+    cursor: pointer;
+    margin: 10px 4px;
+}
+
+.btnDisable {
+    background-color: rgb(253, 245, 232);
+}

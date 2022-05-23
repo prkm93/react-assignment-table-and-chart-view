@@ -1,0 +1,16 @@
+.input {
+    border: 1 px solid none;
+    outline: none;
+    border-radius: 5px;
+}
+
+.input:focus {
+    outline: none;
+    border: 2px solid rgb(221, 65, 25);
+    border-radius: 5px;
+}
+
+input::placeholder {
+    font-size: 13px;
+    padding-left: 4px;
+}

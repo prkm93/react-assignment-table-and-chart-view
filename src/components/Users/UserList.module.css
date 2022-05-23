@@ -1,0 +1,12 @@
+th:nth-child(-n+3) {
+    cursor: pointer;
+}
+
+h5 {
+    color: rgb(255, 71, 71);
+    font-weight: 700;
+}   
+
+.noResults { 
+    color: rgb(255, 71, 71);
+}
